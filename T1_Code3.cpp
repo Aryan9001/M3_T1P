@@ -9,7 +9,7 @@
 using namespace std;
 using namespace chrono;
 
-const int MAX_SIZE = 10;
+const int MAX_SIZE = 1000;
 
 // Function to generate random values for a matrix
 void generateRandomMatrix(int matrix[][MAX_SIZE], int N) {
