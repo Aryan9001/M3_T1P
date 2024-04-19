@@ -3,7 +3,7 @@
 #include <time.h>
 #include <mpi.h>
 
-#define m_Matrix 100
+#define m_Matrix 1000
 
 void rMatrix(int N, int **m) {
     for (int i = 0; i < N; i++) {
